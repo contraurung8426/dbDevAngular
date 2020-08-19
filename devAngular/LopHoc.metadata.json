@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"devAngular.LopHoc"},{"v":2,"unique":true,"key":{"maLopHoc":1},"name":"maLopHoc_1","ns":"devAngular.LopHoc","background":true},{"v":2,"unique":true,"key":{"tenVietTat":1},"name":"tenVietTat_1","ns":"devAngular.LopHoc","background":true}],"uuid":"5b6ada0a94c541bda5b1b84d1af2dd4f"}

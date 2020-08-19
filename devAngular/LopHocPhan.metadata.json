@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"devAngular.LopHocPhan"},{"v":2,"unique":true,"key":{"maLopHocPhan":1},"name":"maLopHocPhan_1","ns":"devAngular.LopHocPhan","background":true}],"uuid":"372123d2e890418785c31c3aa9da7c22"}

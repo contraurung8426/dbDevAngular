@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"devAngular.NganhNghe"},{"v":2,"unique":true,"key":{"maNganhNghe":1},"name":"maNganhNghe_1","ns":"devAngular.NganhNghe","background":true}],"uuid":"80703dcbe62c419c87fcdaf6d481bdd4"}

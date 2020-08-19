@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"devAngular.MonHoc"},{"v":2,"unique":true,"key":{"tenMonHoc":1},"name":"tenMonHoc_1","ns":"devAngular.MonHoc","background":true},{"v":2,"unique":true,"key":{"maMonHoc":1},"name":"maMonHoc_1","ns":"devAngular.MonHoc","background":true}],"uuid":"a434440b24464b6580b1f30b87ac8db0"}
